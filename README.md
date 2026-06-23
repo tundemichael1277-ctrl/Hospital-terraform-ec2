@@ -1,3 +1,6 @@
 # Hospital-terraform-ec2
 the Hospital web should be available soon
-it is about the new web
+new update towards the hospital web
+it is latest versions
+please refer to all pages
+
