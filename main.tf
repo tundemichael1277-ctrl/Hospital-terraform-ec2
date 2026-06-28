@@ -7,5 +7,6 @@ resource "aws_instance" "hospital_app" {
     tags = {
       Name = "hospital_app"
     }
+    user_data = file("userdata.sh")
  
 }
